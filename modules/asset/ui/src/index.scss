@@ -1,0 +1,25 @@
+@import url('~normalize.css');
+// NOTE: We're using a `.bp-` namespace to indicate these are the boilerplate
+// styles.
+@import './scss/_settings';
+@import './scss/_type';
+@import './scss/_layout';
+@import './scss/_welcome';
+@import './scss/_widgets';
+
+.btn {
+    text-align: center;
+    padding: 1rem 2rem;
+    color: #fff !important;
+    background-color: #000;
+    border-radius: 5px;
+    display: inline-block;
+
+    &.safe {
+        background-color: #0a8;
+    }
+}
+
+section:has(> .btn) {
+    text-align: center;
+}
