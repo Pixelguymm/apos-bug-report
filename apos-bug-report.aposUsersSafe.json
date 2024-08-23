@@ -1,0 +1,16 @@
+[{
+  "_id": "t9811u4vspg1bd8g28pbsfr3",
+  "username": "admin",
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:51.946Z"
+  },
+  "passwordHash": "{\"hashMethod\":\"scrypt\",\"salt\":\"qX/sgasg9Fwg4aNmNlsAGQGHiIDclv/ubiR9u5saNEgbBLWMGy7Sf9g+rtdwnKIzve2QV6Nr8GPTR2lWw0Tznw==\",\"hash\":\"cDgR6dtHUeAGvEX/Jm6Uqi/SXKCdcLzAbrvGkv71ywTCPWfw+fR3i5dFMSJTKID1IOAF7eRweVoVMzKm1Rb5yA==\",\"keyLength\":64,\"scrypt\":{\"cost\":131072,\"parallelization\":1,\"blockSize\":8,\"maxmem\":134220800},\"credentials3\":true}"
+},
+{
+  "_id": "goool0mm96i83sim4ot8vfqr",
+  "username": "test",
+  "updatedAt": {
+    "$date": "2024-08-23T14:36:31.467Z"
+  },
+  "passwordHash": "{\"hashMethod\":\"scrypt\",\"salt\":\"kGYPB4bB0tcAwZap5XdeWX9yF88M2xDYwiJb0UWhg48YCTs9ym+nt4pABOuUI6L6SRX25CzZgYV7hhDU9Fe39w==\",\"hash\":\"8y1ykUtbqAg0Gvx6WxZV1fWqmsWuYTwpge2fNN+F9mMhF1Y956jXQOvHH0Zochg/o9kkoVW0nF0eFTMyw+mK2w==\",\"keyLength\":64,\"scrypt\":{\"cost\":131072,\"parallelization\":1,\"blockSize\":8,\"maxmem\":134220800},\"credentials3\":true}"
+}]

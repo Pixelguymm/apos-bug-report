@@ -1,0 +1,1090 @@
+[{
+  "_id": "jjyrsgavytrcr5z1ivym9wgc:en:published",
+  "type": "@apostrophecms/global",
+  "slug": "global",
+  "title": "global",
+  "archived": false,
+  "visibility": "public",
+  "aposDocId": "jjyrsgavytrcr5z1ivym9wgc",
+  "aposLocale": "en:published",
+  "aposMode": "published",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:51.673Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:27:51.673Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "titleSortified": "global",
+  "highSearchText": "global global",
+  "highSearchWords": [
+    "global"
+  ],
+  "lowSearchText": "global global",
+  "searchSummary": "",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T14:27:51.673Z"
+  }
+},
+{
+  "_id": "jjyrsgavytrcr5z1ivym9wgc:en:draft",
+  "type": "@apostrophecms/global",
+  "slug": "global",
+  "title": "global",
+  "archived": false,
+  "visibility": "public",
+  "aposDocId": "jjyrsgavytrcr5z1ivym9wgc",
+  "aposLocale": "en:draft",
+  "aposMode": "draft",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.683Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:51.683Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:27:51.683Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "titleSortified": "global",
+  "highSearchText": "global global",
+  "highSearchWords": [
+    "global"
+  ],
+  "lowSearchText": "global global",
+  "searchSummary": "",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T14:27:51.673Z"
+  }
+},
+{
+  "_id": "axb91kqj5iy7bj78oxis8do9:en:published",
+  "title": "Home",
+  "main": {
+    "_id": "ekscnkpe012qeh2on2u9yprp",
+    "items": [
+      {
+        "_id": "t12uyhkn8lkcvirk48gzmq6w",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This page contains a button with a relationship to the current page, breaking <em>something</em>, and causing new changes not to be saved.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "z9sa4xk5n2ze9xzbihmfkuld",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "lzt22rsvdtymvdd30mhi69by",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>More examples:</p><ul><li><p><a href=\"#apostrophe-permalink-fq72tjc0gso5csncam0fjonu?updateTitle=0\">Using </a><code>project</code></p></li><li><p><a href=\"#apostrophe-permalink-rbjqhx2xeatpskuyk3ysnlij?updateTitle=0\">Linking a different page</a></p></li></ul>",
+        "permalinkIds": [
+          "fq72tjc0gso5csncam0fjonu",
+          "rbjqhx2xeatpskuyk3ysnlij"
+        ],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "slug": "/",
+  "type": "@apostrophecms/home-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": "home",
+  "parked": [
+    "slug",
+    "parkedId"
+  ],
+  "rank": 0,
+  "level": 0,
+  "aposDocId": "axb91kqj5iy7bj78oxis8do9",
+  "path": "axb91kqj5iy7bj78oxis8do9",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:49:41.160Z"
+  },
+  "aposLocale": "en:published",
+  "aposMode": "published",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.732Z"
+  },
+  "archived": false,
+  "titleSortified": "home",
+  "updatedAt": {
+    "$date": "2024-08-23T18:49:41.204Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:49:41.204Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "home home apostrophecms home page public",
+  "highSearchWords": [
+    "home",
+    "apostrophecms",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "home home this page contains a button with a relationship to the current page breaking something and causing new changes not to be saved you should be able to edit the rich text widget above the button but not this one if you delete the button editing this widget should work again more examples using project linking a different page apostrophecms home page public",
+  "searchSummary": "\nThis page contains a button with a relationship to the current page, breaking something, and causing new changes not to be saved. \nYou should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again. \nMore examples:\n\nUsing project\n\nLinking a different page",
+  "historicUrls": [
+    "/"
+  ],
+  "relatedReverseIds": []
+},
+{
+  "_id": "axb91kqj5iy7bj78oxis8do9:en:draft",
+  "title": "Home",
+  "main": {
+    "_id": "ekscnkpe012qeh2on2u9yprp",
+    "items": [
+      {
+        "_id": "t12uyhkn8lkcvirk48gzmq6w",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This page contains a button with a relationship to the current page, breaking <em>something</em>, and causing new changes not to be saved.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "skyt3riig45m0pclgvkfm8aw",
+        "metaType": "widget",
+        "type": "button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "axb91kqj5iy7bj78oxis8do9"
+        ],
+        "pageFields": {
+          "axb91kqj5iy7bj78oxis8do9": {}
+        }
+      },
+      {
+        "_id": "z9sa4xk5n2ze9xzbihmfkuld",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "lzt22rsvdtymvdd30mhi69by",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>More examples:</p><ul><li><p><a href=\"#apostrophe-permalink-fq72tjc0gso5csncam0fjonu?updateTitle=0\">Using </a><code>project</code></p></li><li><p><a href=\"#apostrophe-permalink-rbjqhx2xeatpskuyk3ysnlij?updateTitle=0\">Linking a different page</a></p></li></ul>",
+        "permalinkIds": [
+          "fq72tjc0gso5csncam0fjonu",
+          "rbjqhx2xeatpskuyk3ysnlij"
+        ],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "slug": "/",
+  "type": "@apostrophecms/home-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": "home",
+  "parked": [
+    "slug",
+    "parkedId"
+  ],
+  "rank": 0,
+  "level": 0,
+  "aposDocId": "axb91kqj5iy7bj78oxis8do9",
+  "path": "axb91kqj5iy7bj78oxis8do9",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:49:41.160Z"
+  },
+  "aposLocale": "en:draft",
+  "aposMode": "draft",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.744Z"
+  },
+  "archived": false,
+  "titleSortified": "home",
+  "updatedAt": {
+    "$date": "2024-08-23T18:49:51.568Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:49:51.568Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "home home apostrophecms home page public",
+  "highSearchWords": [
+    "home",
+    "apostrophecms",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "home home this page contains a button with a relationship to the current page breaking something and causing new changes not to be saved you should be able to edit the rich text widget above the button but not this one if you delete the button editing this widget should work again more examples using project linking a different page apostrophecms home page public",
+  "searchSummary": "\nThis page contains a button with a relationship to the current page, breaking something, and causing new changes not to be saved. \nYou should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again. \nMore examples:\n\nUsing project\n\nLinking a different page",
+  "advisoryLock": {
+    "username": "test",
+    "title": "test",
+    "_id": "ffgsx03jt4m2vj4ed3b1agye",
+    "updatedAt": {
+      "$date": "2024-08-23T19:14:02.972Z"
+    }
+  },
+  "historicUrls": [
+    "/"
+  ],
+  "modified": true,
+  "relatedReverseIds": []
+},
+{
+  "_id": "ds0i694sxsr10xah7pulqw62:en:published",
+  "title": "Archive",
+  "main": {
+    "metaType": "area",
+    "items": [],
+    "_id": "kq7qhvnwqem06uiy08k0kkmv"
+  },
+  "slug": "/archive",
+  "type": "@apostrophecms/archive-page",
+  "visibility": "public",
+  "orphan": true,
+  "parkedId": "archive",
+  "archived": true,
+  "parked": [
+    "slug",
+    "parkedId",
+    "type",
+    "archived",
+    "orphan",
+    "title"
+  ],
+  "rank": 0,
+  "aposDocId": "ds0i694sxsr10xah7pulqw62",
+  "path": "axb91kqj5iy7bj78oxis8do9/ds0i694sxsr10xah7pulqw62",
+  "level": 1,
+  "aposLocale": "en:published",
+  "aposMode": "published",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.807Z"
+  },
+  "titleSortified": "archive",
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:51.807Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:27:51.807Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "highSearchText": "archive archive archive archive apostrophecms archive page public",
+  "highSearchWords": [
+    "archive",
+    "apostrophecms",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "archive archive archive archive apostrophecms archive page public",
+  "searchSummary": "",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T14:27:51.807Z"
+  },
+  "aposWasArchived": true
+},
+{
+  "_id": "ds0i694sxsr10xah7pulqw62:en:draft",
+  "title": "Archive",
+  "main": {
+    "metaType": "area",
+    "items": [],
+    "_id": "kq7qhvnwqem06uiy08k0kkmv"
+  },
+  "slug": "/archive",
+  "type": "@apostrophecms/archive-page",
+  "visibility": "public",
+  "orphan": true,
+  "parkedId": "archive",
+  "archived": true,
+  "parked": [
+    "slug",
+    "parkedId",
+    "type",
+    "archived",
+    "orphan",
+    "title"
+  ],
+  "rank": 4,
+  "aposDocId": "ds0i694sxsr10xah7pulqw62",
+  "path": "axb91kqj5iy7bj78oxis8do9/ds0i694sxsr10xah7pulqw62",
+  "level": 1,
+  "aposLocale": "en:draft",
+  "aposMode": "draft",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.828Z"
+  },
+  "titleSortified": "archive",
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:51.828Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:27:51.828Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "highSearchText": "archive archive archive archive apostrophecms archive page public",
+  "highSearchWords": [
+    "archive",
+    "apostrophecms",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "archive archive archive archive apostrophecms archive page public",
+  "searchSummary": "",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T14:27:51.807Z"
+  },
+  "aposWasArchived": true
+},
+{
+  "_id": "t9811u4vspg1bd8g28pbsfr3",
+  "username": "admin",
+  "title": "admin",
+  "role": "admin",
+  "type": "@apostrophecms/user",
+  "aposDocId": "t9811u4vspg1bd8g28pbsfr3",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.946Z"
+  },
+  "archived": false,
+  "slug": "user-admin",
+  "updatedAt": {
+    "$date": "2024-08-23T14:27:52.261Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:27:52.261Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "titleSortified": "admin",
+  "highSearchText": "admin admin admin admin admin admin",
+  "highSearchWords": [
+    "admin"
+  ],
+  "lowSearchText": "admin admin admin admin admin admin",
+  "searchSummary": "",
+  "loginInvalidBefore": 1724423272264,
+  "visibility": "public"
+},
+{
+  "_id": "goool0mm96i83sim4ot8vfqr",
+  "username": "test",
+  "title": "test",
+  "role": "admin",
+  "type": "@apostrophecms/user",
+  "aposDocId": "goool0mm96i83sim4ot8vfqr",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:36:31.467Z"
+  },
+  "archived": false,
+  "slug": "user-test",
+  "updatedAt": {
+    "$date": "2024-08-23T14:36:31.776Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T14:36:31.776Z"
+  },
+  "updatedBy": {
+    "_id": null,
+    "title": "System Task",
+    "username": null
+  },
+  "titleSortified": "test",
+  "highSearchText": "test test test test test admin",
+  "highSearchWords": [
+    "test",
+    "admin"
+  ],
+  "lowSearchText": "test test test test test admin",
+  "searchSummary": "",
+  "loginInvalidBefore": 1724423791780,
+  "visibility": "public"
+},
+{
+  "_id": "axb91kqj5iy7bj78oxis8do9:en:previous",
+  "title": "Home",
+  "main": {
+    "_id": "ekscnkpe012qeh2on2u9yprp",
+    "items": [
+      {
+        "_id": "t12uyhkn8lkcvirk48gzmq6w",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This page contains a button with a relationship to the current page, breaking <em>something</em>, and causing new changes not to be saved.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "ir5ycvndgxwef9e1zcp90363",
+        "metaType": "widget",
+        "type": "button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "axb91kqj5iy7bj78oxis8do9"
+        ],
+        "pageFields": {
+          "axb91kqj5iy7bj78oxis8do9": {}
+        }
+      },
+      {
+        "_id": "z9sa4xk5n2ze9xzbihmfkuld",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "lzt22rsvdtymvdd30mhi69by",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>More examples:</p><ul><li><p><a href=\"#apostrophe-permalink-fq72tjc0gso5csncam0fjonu?updateTitle=0\">Using </a><code>project</code></p></li><li><p><a href=\"#apostrophe-permalink-rbjqhx2xeatpskuyk3ysnlij?updateTitle=0\">Linking a different page</a></p></li></ul>",
+        "permalinkIds": [
+          "fq72tjc0gso5csncam0fjonu",
+          "rbjqhx2xeatpskuyk3ysnlij"
+        ],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "slug": "/-deduplicate-axb91kqj5iy7bj78oxis8do9",
+  "type": "@apostrophecms/home-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": "home",
+  "parked": [
+    "slug",
+    "parkedId"
+  ],
+  "rank": 0,
+  "level": 0,
+  "aposDocId": "axb91kqj5iy7bj78oxis8do9",
+  "path": "axb91kqj5iy7bj78oxis8do9",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:49:29.098Z"
+  },
+  "aposLocale": "en:previous",
+  "aposMode": "previous",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T14:27:51.732Z"
+  },
+  "archived": false,
+  "titleSortified": "home",
+  "updatedAt": {
+    "$date": "2024-08-23T18:49:29.143Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:49:29.143Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "home home apostrophecms home page public",
+  "highSearchWords": [
+    "home",
+    "apostrophecms",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "home home this page contains a button with a relationship to the current page breaking something and causing new changes not to be saved you should be able to edit the rich text widget above the button but not this one if you delete the button editing this widget should work again more examples using project linking a different page apostrophecms home page public",
+  "searchSummary": "\nThis page contains a button with a relationship to the current page, breaking something, and causing new changes not to be saved. \nYou should be able to edit the rich text widget above the button, but not this one. If you delete the button, editing this widget should work again \nMore examples:\n\nUsing project\n\nLinking a different page",
+  "historicUrls": [
+    "/"
+  ],
+  "relatedReverseIds": []
+},
+{
+  "_id": "fq72tjc0gso5csncam0fjonu:en:draft",
+  "title": "Example 1",
+  "main": {
+    "_id": "vg7snr1e4qle5d4dd1hjkti0",
+    "items": [
+      {
+        "_id": "plom4vt5dx089gzy4qpdqwhs",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Much like the home page, this page contains a button linking to the page itself. However, it uses <code>project</code> to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "fgfotwjptz0ejs8ui1whlu9u",
+        "metaType": "widget",
+        "type": "safe-button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "puxhqo81r9seyok8r35ox1jt",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Try it if you want!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "slug": "/example-1",
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "rank": 2,
+  "aposDocId": "fq72tjc0gso5csncam0fjonu",
+  "path": "axb91kqj5iy7bj78oxis8do9/fq72tjc0gso5csncam0fjonu",
+  "level": 1,
+  "aposLocale": "en:draft",
+  "aposMode": "draft",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:18:47.049Z"
+  },
+  "archived": false,
+  "titleSortified": "example 1",
+  "updatedAt": {
+    "$date": "2024-08-23T18:40:10.777Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:41:11.383Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "example 1 example 1 example 1 example 1 default page public",
+  "highSearchWords": [
+    "example",
+    "1",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "example 1 example 1 example 1 much like the home page this page contains a button linking to the page itself however it uses project to exclude any properties other than the url as a result the rich text widget below the button should be editable unlike the one on the home page try it if you want example 1 default page public",
+  "searchSummary": "\nMuch like the home page, this page contains a button linking to the page itself. However, it uses project to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page. \nTry it if you want!",
+  "modified": false,
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:40:10.905Z"
+  },
+  "historicUrls": [
+    "/test-1"
+  ],
+  "relatedReverseIds": [
+    "rbjqhx2xeatpskuyk3ysnlij"
+  ],
+  "applyVisibilityToSubpages": false,
+  "advisoryLock": {
+    "username": "test",
+    "title": "test",
+    "_id": "ffgsx03jt4m2vj4ed3b1agye",
+    "updatedAt": {
+      "$date": "2024-08-23T18:43:18.827Z"
+    }
+  }
+},
+{
+  "_id": "fq72tjc0gso5csncam0fjonu:en:published",
+  "aposDocId": "fq72tjc0gso5csncam0fjonu",
+  "aposLocale": "en:published",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:40:10.905Z"
+  },
+  "slug": "/example-1",
+  "title": "Example 1",
+  "main": {
+    "_id": "vg7snr1e4qle5d4dd1hjkti0",
+    "items": [
+      {
+        "_id": "plom4vt5dx089gzy4qpdqwhs",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Much like the home page, this page contains a button linking to the page itself. However, it uses <code>project</code> to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "fgfotwjptz0ejs8ui1whlu9u",
+        "metaType": "widget",
+        "type": "safe-button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "puxhqo81r9seyok8r35ox1jt",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Try it if you want!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": null,
+  "parked": null,
+  "rank": 0,
+  "path": "axb91kqj5iy7bj78oxis8do9/fq72tjc0gso5csncam0fjonu",
+  "level": 1,
+  "aposMode": "published",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:18:47.183Z"
+  },
+  "archived": false,
+  "titleSortified": "example 1",
+  "updatedAt": {
+    "$date": "2024-08-23T18:40:10.945Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:41:12.792Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "example 1 example 1 example 1 example 1 default page public",
+  "highSearchWords": [
+    "example",
+    "1",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "example 1 example 1 example 1 much like the home page this page contains a button linking to the page itself however it uses project to exclude any properties other than the url as a result the rich text widget below the button should be editable unlike the one on the home page try it if you want example 1 default page public",
+  "searchSummary": "\nMuch like the home page, this page contains a button linking to the page itself. However, it uses project to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page. \nTry it if you want!",
+  "historicUrls": [
+    "/test-1",
+    "/example-1"
+  ],
+  "relatedReverseIds": [
+    "rbjqhx2xeatpskuyk3ysnlij"
+  ]
+},
+{
+  "_id": "fq72tjc0gso5csncam0fjonu:en:previous",
+  "aposDocId": "fq72tjc0gso5csncam0fjonu",
+  "aposLocale": "en:previous",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:34:49.135Z"
+  },
+  "slug": "/test-1-deduplicate-fq72tjc0gso5csncam0fjonu",
+  "title": "Test 1",
+  "main": {
+    "_id": "vg7snr1e4qle5d4dd1hjkti0",
+    "items": [
+      {
+        "_id": "plom4vt5dx089gzy4qpdqwhs",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Much like the home page, this page contains a button linking to the page itself. However, it uses <code>project</code> to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "fgfotwjptz0ejs8ui1whlu9u",
+        "metaType": "widget",
+        "type": "safe-button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "puxhqo81r9seyok8r35ox1jt",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>Try it if you want!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": null,
+  "parked": null,
+  "rank": 0,
+  "path": "axb91kqj5iy7bj78oxis8do9/fq72tjc0gso5csncam0fjonu",
+  "level": 1,
+  "aposMode": "previous",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:18:47.183Z"
+  },
+  "archived": false,
+  "titleSortified": "test 1",
+  "updatedAt": {
+    "$date": "2024-08-23T18:34:49.184Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:37:40.341Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "test 1 test 1 test 1 test 1 default page public",
+  "highSearchWords": [
+    "test",
+    "1",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "test 1 test 1 test 1 much like the home page this page contains a button linking to the page itself however it uses project to exclude any properties other than the url as a result the rich text widget below the button should be editable unlike the one on the home page try it if you want test 1 default page public",
+  "searchSummary": "\nMuch like the home page, this page contains a button linking to the page itself. However, it uses project to exclude any properties other than the URL. As a result, the rich text widget below the button should be editable, unlike the one on the home page. \nTry it if you want!",
+  "historicUrls": [
+    "/test-1"
+  ],
+  "relatedReverseIds": [
+    "rbjqhx2xeatpskuyk3ysnlij"
+  ]
+},
+{
+  "_id": "rbjqhx2xeatpskuyk3ysnlij:en:draft",
+  "title": "Example 2",
+  "main": {
+    "_id": "lticobpxpqx5zol44lf8vijx",
+    "items": [
+      {
+        "_id": "srbw94eezjxwvalnffldcwnc",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "krw5h5en12gfy7uj83072yai",
+        "metaType": "widget",
+        "type": "button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "fz9biolbhvw7w6nekg600ups",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit this rich text widget just fine!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "slug": "/example-2",
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "rank": 3,
+  "aposDocId": "rbjqhx2xeatpskuyk3ysnlij",
+  "path": "axb91kqj5iy7bj78oxis8do9/rbjqhx2xeatpskuyk3ysnlij",
+  "level": 1,
+  "aposLocale": "en:draft",
+  "aposMode": "draft",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:35:32.507Z"
+  },
+  "titleSortified": "example 2",
+  "updatedAt": {
+    "$date": "2024-08-23T18:41:11.383Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:41:11.383Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "example 2 example 2 example 2 example 2 default page public",
+  "highSearchWords": [
+    "example",
+    "2",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "example 2 example 2 example 2 this test uses the unsafe button just like the home page but it s linked to a different page example 1 so it doesn t cause any issues you should be able to edit this rich text widget just fine example 2 default page public",
+  "searchSummary": "\nThis test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues. \nYou should be able to edit this rich text widget just fine!",
+  "modified": false,
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:41:12.753Z"
+  },
+  "historicUrls": [
+    "/test-2",
+    "/example-2"
+  ],
+  "applyVisibilityToSubpages": false,
+  "advisoryLock": {
+    "username": "test",
+    "title": "test",
+    "_id": "ffgsx03jt4m2vj4ed3b1agye",
+    "updatedAt": {
+      "$date": "2024-08-23T18:41:21.818Z"
+    }
+  }
+},
+{
+  "_id": "rbjqhx2xeatpskuyk3ysnlij:en:published",
+  "aposDocId": "rbjqhx2xeatpskuyk3ysnlij",
+  "aposLocale": "en:published",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:41:12.753Z"
+  },
+  "slug": "/example-2",
+  "title": "Example 2",
+  "main": {
+    "_id": "lticobpxpqx5zol44lf8vijx",
+    "items": [
+      {
+        "_id": "srbw94eezjxwvalnffldcwnc",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "krw5h5en12gfy7uj83072yai",
+        "metaType": "widget",
+        "type": "button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "fz9biolbhvw7w6nekg600ups",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit this rich text widget just fine!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": null,
+  "parked": null,
+  "rank": 1,
+  "path": "axb91kqj5iy7bj78oxis8do9/rbjqhx2xeatpskuyk3ysnlij",
+  "level": 1,
+  "aposMode": "published",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:35:32.630Z"
+  },
+  "titleSortified": "example 2",
+  "updatedAt": {
+    "$date": "2024-08-23T18:41:12.792Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:41:12.792Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "example 2 example 2 example 2 example 2 default page public",
+  "highSearchWords": [
+    "example",
+    "2",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "example 2 example 2 example 2 this test uses the unsafe button just like the home page but it s linked to a different page example 1 so it doesn t cause any issues you should be able to edit this rich text widget just fine example 2 default page public",
+  "searchSummary": "\nThis test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues. \nYou should be able to edit this rich text widget just fine!",
+  "historicUrls": [
+    "/test-2",
+    "/example-2"
+  ]
+},
+{
+  "_id": "rbjqhx2xeatpskuyk3ysnlij:en:previous",
+  "aposDocId": "rbjqhx2xeatpskuyk3ysnlij",
+  "aposLocale": "en:previous",
+  "lastPublishedAt": {
+    "$date": "2024-08-23T18:40:51.483Z"
+  },
+  "slug": "/example-2-deduplicate-rbjqhx2xeatpskuyk3ysnlij",
+  "title": "Example 2",
+  "main": {
+    "_id": "lticobpxpqx5zol44lf8vijx",
+    "items": [
+      {
+        "_id": "srbw94eezjxwvalnffldcwnc",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>This test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues.</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      },
+      {
+        "_id": "krw5h5en12gfy7uj83072yai",
+        "metaType": "widget",
+        "type": "button",
+        "aposPlaceholder": false,
+        "pageIds": [
+          "fq72tjc0gso5csncam0fjonu"
+        ],
+        "pageFields": {
+          "fq72tjc0gso5csncam0fjonu": {}
+        }
+      },
+      {
+        "_id": "fz9biolbhvw7w6nekg600ups",
+        "metaType": "widget",
+        "type": "@apostrophecms/rich-text",
+        "aposPlaceholder": false,
+        "content": "<p>You should be able to edit this rich text widget just fine!</p>",
+        "permalinkIds": [],
+        "imageIds": []
+      }
+    ],
+    "metaType": "area"
+  },
+  "type": "default-page",
+  "visibility": "public",
+  "orphan": false,
+  "parkedId": null,
+  "parked": null,
+  "rank": 1,
+  "path": "axb91kqj5iy7bj78oxis8do9/rbjqhx2xeatpskuyk3ysnlij",
+  "level": 1,
+  "aposMode": "previous",
+  "metaType": "doc",
+  "createdAt": {
+    "$date": "2024-08-23T18:35:32.630Z"
+  },
+  "titleSortified": "example 2",
+  "updatedAt": {
+    "$date": "2024-08-23T18:40:51.518Z"
+  },
+  "cacheInvalidatedAt": {
+    "$date": "2024-08-23T18:40:51.518Z"
+  },
+  "updatedBy": {
+    "_id": "goool0mm96i83sim4ot8vfqr",
+    "title": "test",
+    "username": "test"
+  },
+  "highSearchText": "example 2 example 2 example 2 example 2 default page public",
+  "highSearchWords": [
+    "example",
+    "2",
+    "default",
+    "page",
+    "public"
+  ],
+  "lowSearchText": "example 2 example 2 example 2 this test uses the unsafe button just like the home page but it s linked to a different page example 1 so it doesn t cause any issues you should be able to edit this rich text widget just fine example 2 default page public",
+  "searchSummary": "\nThis test uses the unsafe button, just like the home page, but it's linked to a different page (Example 1), so it doesn't cause any issues. \nYou should be able to edit this rich text widget just fine!",
+  "historicUrls": [
+    "/test-2",
+    "/example-2"
+  ]
+}]
